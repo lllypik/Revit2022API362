@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\PROG\App\DLL\Revit2022API362.dll"</Assembly>
+		<AddInId>A115CB9E-C124-4825-80B1-EF0D168C5AF5</AddInId>
+		<FullClassName>Revit2022API362.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Тема 6 Создание элемента мебели </Text>
+	</AddIn>
+</RevitAddIns>
